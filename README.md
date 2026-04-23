@@ -1,0 +1,1 @@
+An interactive and professional web application built with Streamlit that automates Exploratory Data Analysis (EDA) and Machine Learning workflows. This tool is designed to help data analysts, students, and developers quickly understand datasets, visualize insights, and build predictive models — all without writing extensive code.
